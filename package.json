@@ -1,0 +1,33 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "Lesson 4 Section 7 Blog-API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KJax101/blog-api.git"
+  },
+  "author": "Ken G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KJax101/blog-api/issues"
+  },
+  "homepage": "https://github.com/KJax101/blog-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "uuid": "^3.2.1"
+  },
+  "engines": {
+    "node": "4.4.3"
+  },
+  "keywords": [
+    "node",
+    "hyperdev",
+    "express"
+  ]
+}
